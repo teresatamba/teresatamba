@@ -5,12 +5,9 @@ My research focuses on **Autonomous UAV Navigation**, specifically:
 - 🚁 Indoor Environment Exploration
 - 🗺️ SLAM and Path Optimization
 - 🧠 3D Perception using RGB-D sensors
+- 📫 Reach me at: 113999409@ntut.edu.tw 
 
 🛠 **Tech Stack:** ROS, Gazebo, C++, Python, OpenCV.
-
----
-📫 Reach me at: 113999409@ntut.edu.tw 
-# Hi there! This is [Nama Anda] 👋
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
